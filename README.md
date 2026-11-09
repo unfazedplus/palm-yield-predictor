@@ -25,4 +25,4 @@ Trained on a 5,000-row synthetic palm climate dataset. This is a portfolio demo 
 
 Vite, React, TypeScript, and Tailwind CSS v4.
 
-**Live demo:** LIVE_LINK_HERE
+**Live demo:** https://palm-yield-predictor.vercel.app
